@@ -1,1 +1,1 @@
-# SolicitudRequerimientosFrontEnd
+# Solicitud de requerimientos de software
